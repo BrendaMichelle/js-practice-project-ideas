@@ -21,7 +21,7 @@ _____________________
 
 Create an application using as many different event interactions as possible. If you're not able to think of a project idea, see the list below for inspiration. Here's a list of possible events: https://www.w3schools.com/jsref/dom_obj_event.asp
 
-The purpose of this exercise is to practice DOM manipulation and event handling. Styling and HTML should only be added programatically (using Javascript). Don't worry if your project is not visually appealing - that's not the point of this 😄
+The purpose of this exercise is to practice DOM manipulation and event handling. Styling should only be added programatically (using Javascript) and most (if not all) of your HTML should also be added programatically. Don't worry if your project is not visually appealing - that's not the point of this 😄
 
 - Recreate a version of this [example project](https://will-bush.github.io/event-listener-fun/). 
 - Create a calculator where a number on the pinpad changes its color whenever it's clicked on
