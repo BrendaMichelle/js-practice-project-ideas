@@ -3,7 +3,6 @@
     flex-wrap: flex;
     width: 100%;
     align-items: flex-start;
-    padding: 10px;
 }
 
 .post {
@@ -22,7 +21,40 @@
     height: 20em;
 }
 
+button {
+    margin: 0 auto;
+    color: pink;
+    font-size: 20px;
+    background: none;
+    border: none;
+    box-shadow: rgba(63, 18, 83, 0.657) 2px 2px 2px 2px;
+}
+
 button:focus,
 button:hover {
     outline: none;
+}
+
+header h1, h2 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 75px;
+    text-align: center;
+    text-decoration: wavy;
+    color: pink;
+}
+
+body {
+    background-color: lavender;
+}
+
+form {
+    display: block;
+    text-align: center;
+    color: pink;
+    font-size: 35px;
+}
+
+form input, form textarea {
+    font-size: 15px;
 }
