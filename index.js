@@ -3,7 +3,7 @@ title.style.color = "#00FFFF"
 
 const body = document.querySelector("body")
 
-const words = ["bottle", "map", "rock", "michelle"]
+const words = ["bottle", "map", "rock", "michelle" ]
 
 function randomWords() {
    let random =  words[Math.floor(Math.random() * words.length)]
@@ -20,7 +20,7 @@ function newGame() {
     let currentWord = randomWords()
     // p.textContent = createLines(currentWord.length).join(" ")
     p.textContent = createLines(currentWord)
-    lifeP.textContent = life
+    lifeP.textContent = `Life: ${life}`
     let input = document.createElement("INPUT");
     input.setAttribute("type", "text");
     input.name = "letter"
@@ -51,7 +51,7 @@ function newGame() {
             }
         } else {
             life -= 1
-            lifeP.textContent = life
+            lifeP.textContent = `Life: ${life}`
             alert("Wrong Letter")
         }
 
