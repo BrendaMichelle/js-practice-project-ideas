@@ -1,0 +1,28 @@
+.postHolder {
+    display: flex;
+    flex-wrap: flex;
+    width: 100%;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.post {
+	margin: 1rem 0;
+	margin: 2rem 0.75rem 4rem;
+	display: flex;
+	flex-direction: column;
+}
+
+.post .image {
+    position: relative;
+}
+
+.post .image img {
+    width: 20em;
+    height: 20em;
+}
+
+button:focus,
+button:hover {
+    outline: none;
+}

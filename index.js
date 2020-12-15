@@ -15,6 +15,12 @@ let drinksArray = [
     },
 ]
 
+let logo = document.querySelector("#logo")
+
+logo.addEventListener("click", function(evt) {
+    evt.target.style.color = "blue"
+})
+
 let drinkButton = document.querySelector("#drinkButton")
 
 drinkButton.addEventListener("click", function(evt) {
