@@ -13,7 +13,7 @@ function randomWords() {
 newGame()
 let prevLetters = []
 function newGame() {
-    let life = 3
+    let life = 5
     let p = document.createElement('p')
     let lifeP = document.createElement('p')
     let form = document.createElement('Form')
