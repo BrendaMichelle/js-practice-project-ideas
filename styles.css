@@ -1,0 +1,60 @@
+.postHolder {
+    display: flex;
+    flex-wrap: flex;
+    width: 100%;
+    align-items: flex-start;
+}
+
+.post {
+	margin: 1rem 0;
+	margin: 2rem 0.75rem 4rem;
+	display: flex;
+	flex-direction: column;
+}
+
+.post .image {
+    position: relative;
+}
+
+.post .image img {
+    width: 20em;
+    height: 20em;
+}
+
+button {
+    margin: 0 auto;
+    color: pink;
+    font-size: 20px;
+    background: none;
+    border: none;
+    box-shadow: rgba(63, 18, 83, 0.657) 2px 2px 2px 2px;
+}
+
+button:focus,
+button:hover {
+    outline: none;
+}
+
+header h1, h2 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 75px;
+    text-align: center;
+    text-decoration: wavy;
+    color: pink;
+}
+
+body {
+    background-color: lavender;
+}
+
+form {
+    display: block;
+    text-align: center;
+    color: pink;
+    font-size: 35px;
+}
+
+form input, form textarea {
+    font-size: 15px;
+}
