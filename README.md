@@ -23,7 +23,7 @@ Create an application using as many different event interactions as possible. If
 
 The purpose of this exercise is to practice DOM manipulation and event handling. Most of your styling and HTML (if not all) should only be added programatically (using Javascript). Don't worry if your project is not visually appealing - that's not the point of this 😄
 
-- [Balloon 🎈 Exercise from "Eloquent Javascript"] (https://eloquentjavascript.net/15_event.html#i_ZPJB9UFdQA)
+- [Balloon 🎈 Exercise from "Eloquent Javascript"](https://eloquentjavascript.net/15_event.html#i_ZPJB9UFdQA)
 - Recreate a version of this [example project](https://will-bush.github.io/event-listener-fun/). 
 - Create a calculator. [Deliverable exmaples](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator)
 - Create a hangman game like this: [example project](https://bamsarker.github.io/hangman/?phrase=R0ZER0Y=)
