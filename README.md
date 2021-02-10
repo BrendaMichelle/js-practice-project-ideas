@@ -28,3 +28,4 @@ The purpose of these exercises is to practice Javascript, DOM manipulation, and 
 - Create a calculator. [Deliverable exmaples](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator)
 - Create a hangman game like this: [example project](https://bamsarker.github.io/hangman/?phrase=R0ZER0Y=)
 - Create an application that demonstrates event bubbling: [example](https://codepen.io/telegram/pen/maJxVV)
+- Create a tipping calculator: [example](https://iqcalculators.com/calculator/tip-calculator/)
